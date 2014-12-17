@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+E:\Devel\Android\LearnOpengl\.metadata\.plugins\org.eclipse.jdt.core
+1284074322.index
+4065633095.index
+1274787839.index
+3350772244.index

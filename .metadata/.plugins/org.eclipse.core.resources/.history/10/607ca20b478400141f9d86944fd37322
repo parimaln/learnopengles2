@@ -1,0 +1,7 @@
+package com.example.learnopengl1;
+
+import android.opengl.GLSurfaceView.Renderer;
+
+public class OpenglRenderer implements Renderer{
+
+}

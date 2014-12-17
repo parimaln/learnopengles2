@@ -1,0 +1,5 @@
+package com.example.learnopengl1;
+
+public class OpenglRenderer implements Renderer{
+
+}
